@@ -1,8 +1,10 @@
 ---
 title: "Leadership & Activities"
-layout: category
+layout: single
 permalink: /activities/
-taxonomy: Activities
+excerpt: "Highlights of leadership roles, professional activities, and community engagement."
+last_modified_at: 2024-12-28
+toc: true
 ---
 
 ## Leadership in Education

@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "Learn more about Tsering Sherpa, Economics PhD student and researcher."
+layout: single
 last_modified_at: 2024-12-28
 toc: true
 ---

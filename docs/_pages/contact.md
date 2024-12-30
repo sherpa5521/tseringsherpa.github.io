@@ -15,7 +15,7 @@ I’m always happy to connect with fellow researchers, students, and professiona
 - [linkedin.com/in/tseringlsherpa](https://linkedin.com/in/tseringlsherpa)
 
 ### GitHub
-- [github.com/sherpa5521](https://github.com/sherpa5521)
+- [tseringlsherpa](https://github.com/tseringlsherpa)
 
 ---
 

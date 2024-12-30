@@ -1,8 +1,9 @@
 ---
 title: "Teaching"
-layout: category
+layout: single
 permalink: /teaching/
-taxonomy: Teaching
+excerpt: "Explore my teaching experience and mentoring activities."
+toc: true
 ---
 
 ## Teaching Philosophy
