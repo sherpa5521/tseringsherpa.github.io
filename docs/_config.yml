@@ -15,9 +15,9 @@ title_separator          : "-"
 subtitle                 : "Economics PhD Student | Researcher | Mentor"
 name                     : "Tsering Sherpa"
 description              : "A portfolio site showcasing my research, teaching, and activities."
-url                      : "https://tseringsherpa.github.io" # Ensure this matches your GitHub Pages URL
+url                      : "https://tseringlsherpa.github.io" # Ensure this matches your GitHub Pages URL
 baseurl                  : "" # Leave empty for personal GitHub Pages
-repository               : "sherpa5521/tseringsherpa.github.io"
+repository               : "tseringlsherpa/tseringlsherpa.github.io"
 teaser                   : "/assets/images/site-logo.png" # Path to teaser image
 logo                     : "/assets/images/logo.png" # Path to logo image (optional)
 
@@ -33,7 +33,7 @@ header_pages:
 # Author Information
 author:
   name             : "Tsering Sherpa"
-  avatar           : "/assets/images/tsering-avatar.jpg" # Path to your avatar image
+  avatar           : "/assets/images/IMG_5960.jpeg" # Path to your avatar image
   bio              : "Economics PhD student with interests in development, gender studies, and applied econometrics."
   location         : "Seattle, WA"
   links:
