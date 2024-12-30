@@ -1,13 +1,18 @@
 source "https://rubygems.org"
 
+# General dependencies
 gem "github-pages", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll", path: ".."
+gem "minimal-mistakes-jekyll", "~> 4.26" # Match theme version
 gem "rake"
 
-gem "tzinfo-data"
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# Windows-specific gems (safe to include)
+gem "tzinfo-data" # Required for Windows time zones
+gem "wdm", "~> 0.1.0", platforms: [:mingw, :mswin]
 
-# If you have any plugins, put them here!
+# Explicit Jekyll version
+gem "jekyll", "~> 4.0"
+
+# Grouped Jekyll plugins
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
@@ -15,6 +20,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-include-cache"
-  gem "jekyll-algolia"
-  gem 'jekyll-seo-tag'
+  gem "jekyll-seo-tag" # SEO plugin
 end
