@@ -1,16 +1,9 @@
 ---
 layout: home
-title: "Welcome to My Website"
-permalink: /
-author_profile: false
-header:
-  overlay_image: "/assets/images/sprout.jpeg" # Replace with your image path or remove this line.
-  overlay_filter: 0.5
-  caption: "Exploring Economics and Research"
+author_profile: true
+title: "Welcome"
 ---
-
-Welcome to my personal website! Here, you can learn more about my research, interests, and professional journey.
-
+Welcome to my website! Here, you can learn more about my research, interests, and professional journey.
 
 ## About Me
 I am a first-generation student and child of immigrants, pursuing a PhD in Economics at the University of Washington. My research focuses on [your key topics, e.g., environmental economics, education policy]. Before this, I graduated from the University of Colorado Boulder in 2023 with majors in Economics and Mathematics.
