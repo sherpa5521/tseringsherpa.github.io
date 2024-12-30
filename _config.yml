@@ -1,6 +1,17 @@
-remote_theme: "mmistakes/minimal-mistakes@master"
-title: "Tsering Sherpa"
-description: "Personal website for research and teaching"
+title: Tsering Sherpa
+description: Portfolio and personal site.
+baseurl: "" # Leave empty for GitHub Pages
 url: "https://tseringlsherpa.github.io"
-baseurl: "" # Leave empty for personal GitHub Pages
-permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jemoji
+
+theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@master"
+
+
+

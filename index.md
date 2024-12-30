@@ -1,31 +1,23 @@
 ---
-layout: splash
+layout: home
+title: "Welcome to My Website"
 permalink: /
+author_profile: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: "" # Leave blank for no header image
-  actions:
-    - label: "Learn More"
-      url: "/about/"
-excerpt: >
-  Welcome to my portfolio! Explore my research, teaching, and activities.<br />
-feature_row:
-  - title: "Research"
-    excerpt: "Discover my academic projects and publications."
-    url: "/research/"
-    btn_class: "btn--primary"
-    btn_label: "Explore Research"
-  - title: "Teaching"
-    excerpt: "Learn about my teaching philosophy and experience."
-    url: "/teaching/"
-    btn_class: "btn--primary"
-    btn_label: "Explore Teaching"
-  - title: "Activities"
-    excerpt: "Read about my leadership and mentorship roles."
-    url: "/activities/"
-    btn_class: "btn--primary"
-    btn_label: "Explore Activities"
+  overlay_filter: 0.5
+  caption: "Exploring Economics and Research"
 ---
 
-{% include feature_row %}
+Welcome to my personal website! Here, you can explore my academic journey, research interests, and projects.
 
+## About Me
+I am a first-generation student and child of immigrants, pursuing a PhD in Economics at the University of Washington. My research focuses on [your key topics, e.g., environmental economics, education policy]. Before this, I graduated from the University of Colorado Boulder in 2023 with majors in Economics and Mathematics.
+
+## What You'll Find Here
+- **Research**: Dive into my academic work, including my undergraduate thesis on wildfire smoke and housing prices.
+- **Teaching**: Learn about my experience as a mentor and teaching assistant.
+- **Activities**: Discover my leadership roles and outreach efforts.
+- **Pets**: Meet the furry companions who bring joy to my life!
+
+## Explore More
+Feel free to browse the pages linked above, or get in touch through my [contact page](/contact/). Thank you for visiting!
