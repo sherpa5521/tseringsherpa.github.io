@@ -5,6 +5,9 @@ excerpt: "Explore research papers, working papers, and other publications by Tse
 layout: single
 last_modified_at: 2024-12-28
 toc: true
+description: "Discover Tsering Sherpa's research papers, working papers, and other notable publications."
+categories: [research, publications]
+tags: [papers, economics, research]
 ---
 
 ## Publications and Research

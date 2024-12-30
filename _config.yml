@@ -13,5 +13,31 @@ plugins:
 theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@master"
 
+# Theme Skin
+minimal_mistakes_skin: "air" # Light and clean base; can tweak further.
+
+# Site Design
+header_color: "#fffaf0" # Ivory
+accent_color: "#b28451" # Warm terracotta
+link_color: "#6a994e" # Soft green for nature
+font_family: "'Cormorant Garamond', serif" # Feminine serif font
+
+# Footer Design
+footer:
+  background_color: "#fdf6e3"
+  text_color: "#3a403d"
+
+# Set logo or teaser image
+logo: "/assets/images/sprout.jpeg" # Upload a soft, nature-inspired logo
+teaser: "/assets/images/yellow.jpg" # Optional homepage background
+
+
+header_pages:
+  - /docs/_pages/research.md
+  - /docs/_pages/publications.md
+  - /docs/_pages/activities.md
+  - /docs/_pages/pets.md
+  - /docs/_pages/contact.md
+
 
 
